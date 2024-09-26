@@ -8,7 +8,7 @@
 ---
 
 ### 🌱 I’m currently learning:
-- **Typescript and Solidity**
+- **Still Javascript**
 
 ### 📫 How to reach me:
 - **gustio3131@gmail.com**
