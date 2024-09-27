@@ -2,9 +2,7 @@
 
 ### A passionate full-stack developer from Jambi City.
 
-<p align="center">
-  <a href="https://github.com/Lubitzy"><img src="https://komarev.com/ghpvc/?username=lubitzy&style=flat-square" alt="Profile views"/></a>
-</p>
+<a href="https://github.com/Lubitzy"><img src="https://komarev.com/ghpvc/?username=lubitzy&style=flat-square" alt="Profile views"/></a>
 
 ---
 
@@ -15,12 +13,10 @@ My name is Gustio, a random person who loves coding to solve problems. You can c
 - 🌐 Fullstack web developer
 - 🌱 I'm currently learning TO FOCUS
 
+---
+
 ## 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lubitzy&theme=algolia&layout=compact" alt="Top Langs"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lubitzy&theme=algolia&layout=compact" alt="Top Langs"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lubitzy&show_icons=true&theme=algolia" alt="lubitzy's GitHub Stats"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=lubitzy&show_icons=true&theme=algolia" alt="lubitzy's GitHub Stats"/>
